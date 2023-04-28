@@ -1,5 +1,5 @@
 # EC2-Instance
-Creation of serverless server
+It’s a web service that provides reliable, scalable, compute capacity in the cloud so that you can lunch virtual servers in minutes. You can improve server resilience by placing EC2 on two different Availability Zones by utilizing AWS infrastructure.
 
 ## Topics Covered:
 1. Explore Amazon EC2 instance types.
